@@ -29,3 +29,7 @@ hr {
 	border-width: 6px;
 	color: #BCBBBB;
 }
+
+.img-button {
+	cursor: pointer;
+}
